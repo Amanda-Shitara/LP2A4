@@ -1,3 +1,9 @@
+/**
+ * Github 1: Exercícios de Thread:
+ * a) Implemente a interface Runnable;
+ * b) Faça um exemplo usando o método sleep nas Threads;
+ * c) Faça um exemplo do método join da Thread;
+*/
 
 public class ExercicioThreads implements Runnable {
 	static int contador = 0;
