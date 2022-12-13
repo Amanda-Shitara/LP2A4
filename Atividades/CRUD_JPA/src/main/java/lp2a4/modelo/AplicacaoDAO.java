@@ -1,10 +1,8 @@
-package lp2a4.dao;
+package lp2a4.modelo;
 
 import java.util.List;
 
 import javax.persistence.*;
-
-import lp2a4.modelo.Funcionario;
 
 public class AplicacaoDAO {
 	private static AplicacaoDAO instance;
