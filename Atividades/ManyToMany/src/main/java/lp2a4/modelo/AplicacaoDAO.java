@@ -1,12 +1,8 @@
-package lp2a4.dao;
+package lp2a4.modelo;
 
 import java.util.List;
 
 import javax.persistence.*;
-
-import lp2a4.modelo.Aluno;
-import lp2a4.modelo.AlunoDisciplina;
-import lp2a4.modelo.Disciplina;
 
 public class AplicacaoDAO {
 	private static AplicacaoDAO instance;
